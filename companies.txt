@@ -1,0 +1,11 @@
+# One company slug per line: the name the company uses in its job-board address.
+gitlab
+supabase
+elevenlabs
+canonical
+stripe
+cloudflare
+metabase
+kraken.com
+mozilla
+wikimedia
